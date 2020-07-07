@@ -1,2 +1,2 @@
 # Garage-Manager
-Garage Manager app for console
+Garage Manager app for console.
